@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>laserTransformation</name>
+  <name>laser_transformation</name>
   <version>0.0.0</version>
   <description>The laserTransformation package</description>
 
